@@ -24,15 +24,15 @@ repository: "varzik07/varzik07.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile.png"
+  avatar: "rasm.jpg"
   name: "Oybek Valiyev"
-  bio: "AI Engineer and Researcher in Medical Imaging"
+  bio: "AI Engineer & Researcher | Specializing in Medical Imaging, Deep Learning, and Computer Vision"
   location: "South Korea"
-  employer: "Kumoh National Institute of Tech."
+  employer: "Kumoh National Institute of Technology"
   email: "oybek07valiyev@gmail.com"
 
   github: "varzik07"
-  linkedin: # qo‘shsangiz yaxshi bo‘ladi
+  linkedin: "oybek-valiyev" # User can update this later if incorrect
 
   # # Academic websites
   # academia         : # URL
