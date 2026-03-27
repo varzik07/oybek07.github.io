@@ -8,8 +8,8 @@ export const portfolioData = {
       "Software Engineer"
     ],
     description: "Specializing in Medical Imaging, Deep Learning, and Computer Vision to build intelligent healthcare platforms.",
-    image: "/oybek_rasm.jpg",
-    resumeUrl: "/ValiyevOybek.pdf"
+    image: "oybek_rasm.jpg",
+    resumeUrl: "ValiyevOybek.pdf"
   },
   about: {
     title: "About Me",
@@ -97,7 +97,7 @@ export const portfolioData = {
       tech: ["PyTorch", "3D ResNet-152", "Multi-modal", "SimpleITK"],
       liveLink: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003241210",
       githubLink: "",
-      image: ["/adpkd_architecture.png", "/adpkd_preprocess.png"]
+      image: ["adpkd_architecture.png", "adpkd_preprocess.png"]
     },
     {
       title: "Development of an automated model of neurological prognosis prediction in patients with post-cardiac arrest brain injury using artificial intelligence",
@@ -107,7 +107,7 @@ export const portfolioData = {
       tech: ["Deep Learning", "Transformers", "MedNeXt v1", "Knowledge Distillation"],
       liveLink: "",
       githubLink: "",
-      image: "/neurological_prognosis.png"
+      image: "neurological_prognosis.png"
     },
     {
       title: "Development of a Deep Learning-Based Environmental Monitoring Model to Maintain Temperature and Humidity Stability (±0.1°C / ±1%RH) in Manufacturing Environments",
