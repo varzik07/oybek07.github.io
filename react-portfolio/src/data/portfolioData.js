@@ -122,7 +122,7 @@ export const portfolioData = {
   ],
   contact: {
     email: "oybek07valiyev@gmail.com",
-    github: "varzik07",
+    github: "oybek07",
     linkedin: "oybek-valiyev",
     phone: "010-7532-0407",
     location: "Gumi, South Korea"
