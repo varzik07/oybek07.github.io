@@ -9,7 +9,7 @@ export const portfolioData = {
     ],
     description: "AI Engineer & Researcher | Specializing in Medical Imaging, Deep Learning, and Computer Vision. Currently based in South Korea, leading AI-related projects in healthcare at Kumoh National Institute of Technology.",
     image: "oybek_rasm.jpg",
-    resumeUrl: "ValiyevOybek.docx"
+    resumeUrl: "ValiyevOybek.pdf"
   },
   about: {
     title: "About Me",
