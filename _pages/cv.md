@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF version of my resume here: [Download Resume](/files/ValiyevOybek.pdf)
+You can also download a version of my resume here: [Download Resume](/files/ValiyevOybek.docx)
 
 ## Education
 * **M.S. in Software Engineering**, 국립금오공과대학교 (Kumoh National Institute of Technology)
